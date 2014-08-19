@@ -1,0 +1,59 @@
+FREDRICK PAUL EISELE
+<phreed@gmail.com>
+907 18th Ave S #205
+Nashville, TN 37212
+(906) 289-8177
+
+OBJECTIVE_______________________________________________________________________
+As a Software Development Team Leader, develop reliable systems through: o Practical innovation, collaboration and adaptive software processes
+o Model-based programming and formal delegation o Reducing waste and improving effectiveness
+Meeting or exceeding time and budget constraints
+
+QUALIFICATIONS_________________________________________________________________
+o Developed a manufacturing engineering system that saved $10M/yr throughout a decade of active use.
+o Trained a team of junior programmers in techniques culminating in a system wide performance improvement of over 70%, thereby enabling global implementation.
+o Used SGML successfully in data archival and communication protocols in anticipating the creation and adoption of XML.
+o Actively developing a social/technical model, unifying story (collaboration) and specification (control) driven software development projects.
+
+EXPERIENCE______________________________________________________________________
+General Motors Research 2006-present Neural Code Project Coordinator (1-year contract position)
+o Conducted research in advanced Data Mining Algorithms for sequential and time-stamped data. o Ported advanced algorithms into multiple engineering environments.
+o Contributed to technology improving clarity, stability, and scalability of the products.
+￼Netarx - Computer and Network Services Integrator
+Chief Developer
+Researched and applied technologies to the development of the Remote Network Monitoring Management System (RNMS), including:
+2000-2006
+o XML-based technologies (XSLT, XML Schema) for network protocols, system control, and archival storage of network data.
+o Developed statistical techniques for discovery and tracking of “interesting” phenomenon.
+o Mozart/Oz to allow scalable and robust implementation of multi-threaded polling system.
+o Developed Project Management Processes and Delivery Techniques incorporating RNMS with
+customer and technical/service personnel, focusing on waste elimination. o Contributed improvements to several FOSS projects.
+EDS – Engineering Systems 1997-1999 Project Leader
+o Directed 16 engineers with functionally distinct projects in teams of 1 to 3, achieving SEI Level 3 as a Pilot Project.
+o Trained 3 Engineers from EDS-India, supporting Acoustic Analysis System
+EDS – Engineering Software 1990-1997 Systems Developer
+o Die Casting Analysis System - a Manufacturing Process Analysis System used in reducing scrap rates in large complex castings, saving the company millions of dollars.
+o Sunrayce '93' – Targeting Public Relations and Recruiting by providing Engineering and Logistics Services to multiple University and Company Teams.
+o Improved run-time performance metrics by >70% to a constraint-based system.
+
+SKILLS___________________________________________________________________________
+Programming Languages/Frameworks
+C, C++, Octave, R, JavaScript, Perl, Scheme, PL/I, Fortran Patran/CL, VBA, SQL, XML,
+Java/Netbeans, BAL/370, Mozart/Oz, Firefox, ...
+Computer-Aided Analysis Tools
+VSAero, dieCAS, R, Patran, Causal Data-mining, MATLAB, ...
+Project/Configuration Management
+Prince2, Aegis/Cook, Mercurial, Subversion, Remedy, Continuuos, ...
+Infrastructure Technologies
+TCP/IP, POSIX, SOAP, WebServices, RPC, Windows/API, Object Capabilities/Delegation, UNIX/ Linux
+
+CURRENT STUDIES_______________________________________________________________
+Technological
+para-virtualization, micro-kernel, object capabilities, Squeak/Smalltalk, Gecode, .Net/CLI
+Social
+Trust Metrics, Economics, Project Management, Collaborative Systems, and Quality Control
+
+EDUCATION______________________________________________________________________ Oakland University
+M.S. Program: Embedded Systems Currently Enrolled
+Michigan Technological University
+B.S. Mechanical Engineering: Thermo-Fluids
