@@ -2,3 +2,7 @@
 finances.odt
 
 *.html#
+.cpcache/
+out/
+
+
